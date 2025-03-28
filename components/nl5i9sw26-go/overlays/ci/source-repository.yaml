@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: nl5i9sw26-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/nl5i9sw26-go
